@@ -1,0 +1,6 @@
+{
+  "editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": true
+}
